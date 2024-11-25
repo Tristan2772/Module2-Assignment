@@ -81,5 +81,6 @@ h1 {
     .container .menu-item{
         width: 100%;
         min-width: 150px;
+        margin: 0 0 20px 0;
     }
 }
